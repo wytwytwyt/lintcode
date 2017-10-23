@@ -1,0 +1,2 @@
+# lintcode
+learning in lintcode
